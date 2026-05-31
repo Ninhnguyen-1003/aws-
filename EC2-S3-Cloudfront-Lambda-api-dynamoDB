@@ -1,0 +1,2 @@
+Introduction to EC2
+EC2 là dịch vụ dành cho web cung cấp năng lượng tính toán có thể thay đổi quy mô lịch hoạt trên cloud. Được thiết kế để giúp cho việc tính toán đám mấy ở quy mô web trở nên dễ dàng hơn đối với các nhà phát triển. Cho phép cung cấp tài nguyên một cách nhanh chóng với mức độ trở ngại tối thiểu. Mang lại quyền kiểm soát hoàn toàn đối với các tài nguyên tính toán của mình và cho phép chạy ứng dụng trên môi trường máy tính được chứng minh năng lực của amazon. EC2 có thể rút ngắn thời gian cần thiết để khởi tạo và khởi động.
